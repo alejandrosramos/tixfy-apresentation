@@ -3,7 +3,7 @@
 <br />
 <div align="center">
   <a>
-    <img src="../assets/logo.png" alt="Logo" width="80" height="80">
+    <img src="./assets/logo.png" alt="Logo" width="80" height="80">
   </a>
   <h3 align="center">Análise de Experiência do Usuário do Tixfy</h3>
   <p align="center">
@@ -37,7 +37,7 @@ O aplicativo Tixfy tem como objetivo fornecer aos usuários uma experiência de 
 
 ## Sobre o Projeto
 
-  <img src="../assets/tixfy-demo.gif" alt="tixfy presatation"   width="478" height="789">
+  <img src="./assets/tixfy-demo.gif" alt="tixfy presatation"   width="478" height="789">
 
 O aplicativo Tixfy é projetado com uma abordagem centrada no usuário, visando simplificar o processo de compra de ingressos para os usuários. No entanto, antes de lançar o aplicativo para o público, é essencial realizar uma pré-análise da experiência do usuário para identificar e resolver quaisquer problemas de desempenho ou usabilidade. Essa pré-análise envolve diversos passos para garantir uma experiência do usuário otimizada.
 
